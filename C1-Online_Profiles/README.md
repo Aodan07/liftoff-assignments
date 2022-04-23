@@ -15,5 +15,5 @@ https://www.linkedin.com/in/austin-odaniel-97604794
 ### Resume
 [austins resume.pdf](https://github.com/Aodan07/liftoff-assignments/files/8544827/austins.resume.pdf)
 
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
+> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment..
 
